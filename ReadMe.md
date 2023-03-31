@@ -20,5 +20,6 @@ Hi there 👋<br><br>I'm Henry Larreal , a web developer with 3 years of experie
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Arkosi27&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=arkosi27&label=Profile%20Views&color=12&icon=1&pretty=false)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
